@@ -1,4 +1,4 @@
-#Hi, I'm Charitha Reddy 
+Hi, I'm Charitha Reddy 
 
 I'm an AI/ML Engineer focused on building production-oriented Generative AI, RAG, and Agentic AI applications.
 
